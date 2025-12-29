@@ -1,6 +1,6 @@
 # 🧠 Deep Learning Fundamentals – Weekly Practice Repository
 
-Welcome to the Deep Learning Fundamentals repository!
+**Welcome to the Deep Learning Fundamentals repository!**
 This project is organized week-by-week to help you learn and implement core machine learning and deep learning concepts such as activation functions, gradient descent, and neural network basics.
 
 ## 📂 Project Structure
